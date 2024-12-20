@@ -1,0 +1,58 @@
+
+# LibreCell General Public License (LC-GPL)
+
+## Preamble
+
+The LibreCell General Public License (LC-GPL) is designed to maximize user freedom while fostering inclusivity, creativity, and humor in software development. 
+It enables developers to use, modify, and redistribute software, including under proprietary licenses, with no binding obligations to share source code.
+
+This license is itself dual-licensed under the LibreCell General Public License (LC-GPL) and the GNU General Public License, version 3 or later (GPLv3+). 
+You may choose either license to govern your use, modification, and redistribution of this licensing text.
+
+## Terms and Conditions
+
+1. **Freedom to Use**  
+   You are free to use this software for any purpose, without restriction.
+
+2. **Freedom to Modify**  
+   You are free to modify this software and keep those modifications private or share them under terms of your choosing.
+
+3. **Freedom to Redistribute**  
+   You may redistribute this software in its original or modified form, under any license of your choosing, including proprietary licenses.
+
+4. **Dual-Licensed Option**  
+   This software is released under a dual-license model:
+   - **LibreCell General Public License (LC-GPL):** Maximizing freedom, including the right to close the source.
+   - **GNU General Public License, version 3 or later (GPLv3+):** Maintaining strong copyleft principles for Libre compatibility.
+   Users may choose to comply with either license at their discretion. In the case of conflicting terms, the selected license applies.
+
+5. **No Warranty**  
+   This software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, 
+   fitness for a particular purpose, and non-infringement.
+
+## Additional Request (Non-Binding)
+
+The authors of this software hold a strong commitment to user freedom and respect for the GPLv3+. While you are free to relicense this software under non-Libre 
+terms, we humbly request:
+
+1. **Honor the Spirit:**  
+   Include a note explaining your decision and how it aligns (or does not align) with the values of user freedom.
+
+2. **For Fun:**  
+   Optionally, replace this file with an image (in a Libre format, such as SVG or PNG) of a tattooed declaration on your person reading:  
+   > "I am not in favor of user freedom."  
+   Bonus points if it’s on your posterior.
+
+3. **Be a Good Sport:**  
+   This request is entirely non-binding. We hope it serves as a moment of reflection—and perhaps a laugh.
+
+## Implementation Guidance
+
+To apply the LC-GPL to your project, include this file in your repository and append the following header to source code files:
+
+```plaintext
+This file is dual-licensed under the LibreCell General Public License (LC-GPL) and the GNU General Public License, version 3 or later (GPLv3+).
+You may choose either license to govern your use of this software.
+```
+
+For details on the LC-GPL, see [README.md](./README.md) or consult the accompanying LICENSE file.
