@@ -1,4 +1,4 @@
-# librecell-dual-license
+# librecell-dual-license (LCDL/LC-GPL)
 
 ## repository overview
 
